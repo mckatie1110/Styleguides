@@ -1,0 +1,164 @@
+section{
+  padding:60px;
+}
+
+body{
+  margin:50px;
+}
+
+p{
+ font-family: Georgia;
+ font-size:14pt;
+ font-style: italic;
+ font-weight: normal;
+}
+
+h2{
+  text-align:center;
+  position:fixed;
+  margin-left: 1000px;
+}
+
+div{
+  width:300px;
+  height:300px;
+}
+
+.bbybluesq{
+  background:#D7DDF2;
+}
+
+.creamsq{
+  width:180px;
+  height:180px;
+  background:#EEEED9;
+  float:right;
+  margin-top:50px;
+  margin-right:-10px;
+}
+
+.ltbluesq{
+  width:100px;
+  height:100px;
+  background:#D7DDF2;
+  margin:20px;
+  float:left;
+}
+
+.ltbrownsq{
+  width:100px;
+  height:100px;
+  background:#AE6957;
+  margin:20px;
+  float:left;
+}
+.brntyellowsq{
+  width:100px;
+  height:100px;
+  background:#F0D070;
+  margin:20px;
+  float:left;
+}
+.redsq{
+  width:100px;
+  height:100px;
+  background:#C9043C;
+  margin:20px;
+  float:left;
+}
+
+h5{
+  margin-top:50px;
+  margin-bottom:20px;
+  color:#781017;
+  font-size:14pt;
+}
+
+h1{
+  font-family: Noteworthy;
+  font-size:32pt;
+  font-style:bold;
+  color:#C9043C;
+}
+
+h2{
+  font-family:Noteworthy;
+  font-size:24;
+  font-style:oblique;
+  color:#000000;
+}
+
+p{
+  font-family:Georgia;
+  font-size:16pt;
+  color:#C9043C;
+  margin-top:90px;
+  margin-left:-60px;
+}
+
+h4{
+  position:absolute;
+  margin-top:120px;
+}
+
+.greenbutt{
+  width:200px;
+  height:70px;
+  background:#AE6957;
+  margin-top:170px;
+  border-radius:15px;
+}
+
+.brownbutt{
+  width:200px;
+  height:70px;
+  background:#AE6957;
+  margin-top:80px;
+  border-radius:15px;
+  border:#EEEED9 solid 6px;
+}
+
+.butafter{
+  margin-top:50px;
+}
+
+.headcomment{
+  margin-top:-20px;
+}
+
+.subhead{
+  float:left;
+  margin-top:10px;
+}
+
+.subheadcomment{
+  margin-top:50px;
+}
+
+.thebodytext{
+  font-family:"Helvetica Neue";
+  font-size:16pt;
+  color:#333333;
+  float:left;
+  margin-top:90px;
+}
+
+.subheadcomment{
+  margin-top:50px;
+}
+
+.bodycomment{
+  margin-top:115px;
+}
+
+.icn{
+  margin-top:50px;
+}
+
+.arw{
+  margin-top:80px;
+}
+
+.pics{
+  margin-top:150px;
+}
