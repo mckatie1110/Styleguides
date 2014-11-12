@@ -1,0 +1,21 @@
+body{
+	background-color: teal;
+}
+
+h1{
+	font:helvetica;
+	font-size:32pt;
+	color:white;
+}
+
+h2{
+	font:helvetica;
+	font-size:24pt;
+	color:white;
+}
+
+div{
+	padding:50px;
+	color:orange;
+	float:left;
+}
